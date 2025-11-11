@@ -1,0 +1,17 @@
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora_imc.Form1.resources
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora_imc.Properties.Resources.resources
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora imc.csproj.GenerateResource.cache
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora imc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora imc.AssemblyInfoInputs.cache
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora imc.AssemblyInfo.cs
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora imc\obj\Debug\net8.0-windows\Calculadora imc.csproj.CoreCompileInputs.cache
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.exe
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.deps.json
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.runtimeconfig.json
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.dll
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.pdb
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.dll
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\obj\Debug\net8.0-windows\refint\Calculadora IMC.dll
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.pdb
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.genruntimeconfig.cache
+D:\Sarah Moreira - DDS\Calculadora imc\Calculadora IMC\obj\Debug\net8.0-windows\ref\Calculadora IMC.dll
